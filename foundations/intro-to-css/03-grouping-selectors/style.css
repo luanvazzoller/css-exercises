@@ -1,0 +1,15 @@
+#click-me-button,
+#no-click-me-button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;   
+}
+
+#click-me-button {
+    background-color: #3a3a3a;
+    color: #e0e0e0;
+}
+
+#no-click-me-button {
+    background-color: #e7e77b;
+}
+
